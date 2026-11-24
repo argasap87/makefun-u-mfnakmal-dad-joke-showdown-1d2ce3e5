@@ -1,6 +1,7 @@
 // Dad Joke Showdown: I told my suitcase there would be no
 // vacation this year. Now it is dealing with emotional baggage.
-// The pun lands straight-faced, the groan does the rest.
+// The pun lands straight-faced, the groan does the rest. The
+// suitcase has not forgiven me. It travels light now, out of spite.
 //
 // The program also guards the gate itself: it refuses to write
 // an entry that is blank, over 200 characters, or more than one line.
